@@ -93,6 +93,3 @@ e-invitation/
 
 **Cheab Solinda**
 
-GitHub:
-https://github.com/solinda-cheab
-
