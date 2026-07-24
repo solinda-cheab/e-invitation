@@ -2,7 +2,7 @@
 
 A modern digital invitation platform built with **Laravel** that allows users to create and manage beautiful online invitations for weddings, engagements, birthdays, and other special events.
 
-The system provides a simple way to share event details digitally, manage invitation content, and create a memorable experience for guests.
+
 
 ## Features
 
