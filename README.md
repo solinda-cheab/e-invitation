@@ -76,7 +76,6 @@ e-invitation/
 
 - PHP >= 8.2
 - Composer
-- MySQL
 - Laravel
   
 ## Future Improvements
