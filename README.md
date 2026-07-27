@@ -36,41 +36,7 @@ A modern digital invitation platform built with **Laravel** that allows users to
 - Laravel Artisan
 - Git & GitHub
 
-## Project Structure
 
-```text
-e-invitation/
-│
-├── app/
-│   ├── Models/
-│   ├── Http/
-│   └── Controllers/
-│
-├── database/
-│   ├── migrations/
-│   └── seeders/
-│
-├── public/
-│   ├── assets/
-│   └── uploads/
-│
-├── resources/
-│   ├── views/
-│   │   └── blade templates
-│   ├── css/
-│   └── js/
-│
-├── routes/
-│   └── web.php
-│
-├── storage/
-│
-├── .env.example
-├── composer.json
-└── README.md
-```
-
-## Installation
 
 ### Requirements
 
