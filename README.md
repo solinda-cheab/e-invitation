@@ -36,7 +36,7 @@ A modern digital invitation platform built with **Laravel** that allows users to
 - Laravel Artisan
 - Git & GitHub
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 e-invitation/
