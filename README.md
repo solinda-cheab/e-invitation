@@ -14,8 +14,6 @@ A modern digital invitation platform built with **Laravel** that allows users to
 -  Responsive design for mobile and desktop
 -  Multi-language support (Khmer & English)
 
-## Tech Stack
-
 ### Backend
 - Laravel
 - PHP
