@@ -33,8 +33,6 @@ A modern digital invitation platform built with **Laravel** that allows users to
 - Laravel Artisan
 - Git & GitHub
 
-
-
 ### Requirements
 
 - PHP >= 8.2
