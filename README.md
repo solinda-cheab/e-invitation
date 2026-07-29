@@ -1,9 +1,6 @@
 # E-Invitation 
 
 A modern digital invitation platform built with **Laravel** that allows users to create and manage beautiful online invitations for weddings, engagements, birthdays, and other special events.
-
-
-
 ## Features
 
 -  Create and manage digital invitations
