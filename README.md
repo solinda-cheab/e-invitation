@@ -35,7 +35,6 @@ A modern digital invitation platform built with **Laravel** that allows users to
 - Laravel
   
 ## Future Improvements
-
 - Online RSVP management
 - Guest list tracking
 - QR code invitation sharing
