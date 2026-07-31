@@ -29,7 +29,6 @@ A modern digital invitation platform built with **Laravel** that allows users to
 - Git & GitHub
 
 ### Requirements
-
 - PHP >= 8.2
 - Composer
 - Laravel
