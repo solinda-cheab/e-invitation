@@ -12,6 +12,7 @@ A modern digital invitation platform built with **Laravel** that allows users to
 -  Background music support
 -  Responsive design for mobile and desktop
 -  Multi-language support (Khmer & English)
+  
 ### Backend
 - Laravel
 - PHP
