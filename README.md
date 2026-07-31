@@ -17,7 +17,6 @@ A modern digital invitation platform built with **Laravel** that allows users to
 - Laravel
 - PHP
 
-
 ### Frontend
 - Blade Template Engine
 - HTML5
