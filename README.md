@@ -44,6 +44,5 @@ A modern digital invitation platform built with **Laravel** that allows users to
 - Admin dashboard
 
 ## Author
-
 **Cheab Solinda**
 
